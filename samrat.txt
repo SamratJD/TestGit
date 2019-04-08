@@ -1,6 +1,6 @@
 Hello World
 <<<<<<< HEAD
-
+How are you
 This is for commit
 =======
 >>>>>>> parent of 1f3cc49... Second Commit
