@@ -1,4 +1,3 @@
 Hello World
 How are you?
 This is for commit
-This is for demo
